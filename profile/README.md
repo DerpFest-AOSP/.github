@@ -13,7 +13,7 @@ We currently support Android 15 QPR1, with the latest security patches from Goog
 
 Besides we kinda lowkey support Android 14 as well, with the backported latest security patches from Google. Status: December 2024
 
-And the same applies to Android 13, with the backported latest security patches from Google. Status: December 2024
+And the same applies to Android 13, with the backported latest security patches from Google. Status: January 2025
 
 ### Maybe what you need
 
