@@ -20,3 +20,7 @@ And the same applies to Android 13, with the backported latest security patches 
 - [Manifest](https://github.com/DerpFest-AOSP/manifest)
 - [Device sources](https://github.com/DerpFest-Devices)
 - [Telegram](https://t.me/DerpFestAOSP)
+
+### Warning 
+
+- Be aware! Some people try to abuse this open source community for their own enrichment. Thats why you can see many of our contributions in other ROMs with the wrong author. For example in Crdroid and Evolution-X. Please be careful when cherry-picking and correct this for the mutual respect in this community.
