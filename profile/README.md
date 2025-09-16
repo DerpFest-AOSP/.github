@@ -9,7 +9,7 @@ DerpFest AOSP
 
 > We are an AOSP based custom ROM, twisted with the latest features from all over the Android development community. Quality and stability is our first priority as we are dedicated to bringing you the best Android has to offer, ~~strongly inspired by [AOSiP](https://github.com/AOSiP)~~
 
-We currently support Android 16, with the latest security patches from Google. Status: August 2025
+We currently support Android 16, with the latest security patches from Google. Status: September 2025
 
 Besides we kinda lowkey support Android 13 QPR3, with the backported latest security patches from Google. Status: June 2025
 
