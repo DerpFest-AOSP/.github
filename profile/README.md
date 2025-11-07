@@ -21,4 +21,4 @@ Besides we kinda lowkey support Android 13 QPR3, with the backported latest secu
 
 ### Warning 
 
-- Be aware! Some people try to abuse this open source community for their own enrichment. Thats why you can see many of our contributions in other ROMs with the wrong author. For example in Crdroid and Evolution-X. Please be careful when cherry-picking and correct this for the mutual respect in this community.
+- Be aware! Some people try to abuse this open source community for their own enrichment. Thats why you can see many of our contributions in other ROMs with the wrong author. For example in [CrDroid](https://pranavvashi.com/) and [Evolution-X](https://joeyhuab.com/). Please be careful when cherry-picking and correct this for the mutual respect in this community.
