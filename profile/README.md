@@ -15,7 +15,8 @@ Besides we kinda lowkey support Android 13 QPR3, with the backported latest secu
 
 ### Maybe what you need
 
-- [Manifest](https://github.com/DerpFest-AOSP/android_manifest)
+- [Manifest for Android 16](https://github.com/DerpFest-AOSP/android_manifest)
+- [Manifest for Android 13](https://github.com/DerpFest-AOSP/manifest/tree/13)
 - [Device sources](https://github.com/DerpFest-Devices)
 - [Telegram](https://t.me/DerpFestAOSP)
 
