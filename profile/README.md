@@ -9,13 +9,16 @@ DerpFest AOSP
 
 > We are an AOSP based custom ROM, twisted with the latest features from all over the Android development community. Quality and stability is our first priority as we are dedicated to bringing you the best Android has to offer, ~~strongly inspired by [AOSiP](https://github.com/AOSiP)~~
 
-We currently support Android 16 QPR2, with the latest security patches from Google. Status: August 2026
+We currently support Android 17, with the latest security patches from Google. Status: August 2026
 
 Besides we kinda lowkey support Android 13 QPR3, with the backported latest security patches from Google. Status: July 2026
 
 ### Maybe what you need
 
-- [Manifest for Android 16](https://github.com/DerpFest-AOSP/android_manifest)
+- [Manifest for Android 17](https://github.com/DerpFest-AOSP/android_manifest)
+- [Manifest for Android 16](https://github.com/DerpFest-AOSP/android_manifest/tree/16.2)
+- [Manifest for Android 15](https://github.com/DerpFest-AOSP/manifest/tree/15.2)
+- [Manifest for Android 14](https://github.com/DerpFest-AOSP/manifest/tree/14)
 - [Manifest for Android 13](https://github.com/DerpFest-AOSP/manifest/tree/13)
 - [Device sources](https://github.com/DerpFest-Devices)
 - [Telegram](https://t.me/DerpFestAOSP)
